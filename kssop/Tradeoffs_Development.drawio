@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T11:08:21.125Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.48" version="20.0.1" etag="Z4EmESDNWtCVswrstKrU" type="github"><diagram id="xyvll8fqhdNsAuC87k8-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-07T11:31:31.873Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.48" etag="CPldjIA-TMk89LA4MlIt" version="20.0.1" type="github">
+  <diagram id="xyvll8fqhdNsAuC87k8-" name="Page-1">
+    <mxGraphModel dx="1223" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-2" value="" style="sketch=1;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#d5e8d4;shape=mxgraph.azure.user" vertex="1" parent="1">
+          <mxGeometry x="84.5" y="120" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-3" value="Tolle Features!&lt;br style=&quot;font-size: 16px;&quot;&gt;Time to Market!" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=16;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="124.5" y="40" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-4" value="Marketing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="53" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-5" value="" style="sketch=1;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#9673a6;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#e1d5e7;shape=mxgraph.azure.user" vertex="1" parent="1">
+          <mxGeometry x="120.25" y="340" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-6" value="Eine Spezifikation!" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;fontSize=16;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="160.25" y="260" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-7" value="Tester" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="88.75" y="390" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-8" value="" style="sketch=1;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#dae8fc;shape=mxgraph.azure.user" vertex="1" parent="1">
+          <mxGeometry x="720" y="89" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-9" value="ROI maximieren!&lt;br&gt;Value for money!" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=16;sketch=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="550" y="139" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-10" value="Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="59" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-11" value="" style="sketch=1;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f8cecc;shape=mxgraph.azure.user;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="663" y="340" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-12" value="Benutzerfreundlich!&lt;br&gt;Features!" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=16;sketch=1;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="270" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-13" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="631.5" y="390" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-14" value="Entwickler" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;fontFamily=Comic Sans MS;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-15" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;sketch=1;fontFamily=Comic Sans MS;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="414" y="40" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5XZtvGOA8CFxdN59e2yP-17" value="Monaden ...&lt;br&gt;bind ...&lt;br&gt;Einheitsfunktion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Comic Sans MS;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="434" y="51" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
