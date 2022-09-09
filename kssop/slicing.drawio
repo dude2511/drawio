@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T15:43:16.084Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.83" etag="AJQq2W8AYWD6UMrP35Hw" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T15:48:51.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.83" etag="-gpqwE2lw_9r-qyMbMT9" version="20.2.3" type="github">
   <diagram id="06xZx4vCc8Ir4-MciSph" name="Page-1">
     <mxGraphModel dx="1248" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,14 @@
         </mxCell>
         <mxCell id="h9IL1zWuWg-1ItNgKpXS-14" value="&lt;font color=&quot;#ff6666&quot;&gt;Index von hinten:&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="90" y="167" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h9IL1zWuWg-1ItNgKpXS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=20;fontColor=#000000;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="h9IL1zWuWg-1ItNgKpXS-16" target="h9IL1zWuWg-1ItNgKpXS-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="100" />
+              <mxPoint x="360" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="h9IL1zWuWg-1ItNgKpXS-16" value="&lt;font color=&quot;#66b2ff&quot;&gt;0&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff6666&quot;&gt;-6&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontFamily=Courier New;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="240" y="130" width="40" height="70" as="geometry" />
@@ -72,6 +80,29 @@
         </mxCell>
         <mxCell id="h9IL1zWuWg-1ItNgKpXS-30" value="&lt;font color=&quot;#6666ff&quot;&gt;1&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffb366&quot;&gt;-1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontFamily=Courier New;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="466" y="244" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h9IL1zWuWg-1ItNgKpXS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=20;fontColor=#000000;dashed=1;dashPattern=1 2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="130" as="sourcePoint" />
+            <mxPoint x="310" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="100" />
+              <mxPoint x="310" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h9IL1zWuWg-1ItNgKpXS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=20;fontColor=#000000;" edge="1" parent="1" target="h9IL1zWuWg-1ItNgKpXS-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="130" as="sourcePoint" />
+            <mxPoint x="360" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="100" />
+              <mxPoint x="409" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h9IL1zWuWg-1ItNgKpXS-38" value="Schrittweite" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="276" y="73" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
