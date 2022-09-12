@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T14:08:03.436Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.83" etag="re_bqASxdLAxCBM85Olp" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-12T14:10:33.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.83" etag="VCkUupDyapyLe3OEmY1R" version="20.2.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1303" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
         <mxCell id="tZK1ywAeQsJ68GABahhb-1780" value="Memory View" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#2D7600;strokeWidth=1;fillColor=#60a917;fontFamily=Comic Sans MS;fontSize=18;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=0;sketch=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="800" y="365.5" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tZK1ywAeQsJ68GABahhb-1781" value="Ranges" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#2D7600;strokeWidth=1;fillColor=#60a917;fontFamily=Comic Sans MS;fontSize=18;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=0;sketch=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="tZK1ywAeQsJ68GABahhb-1781" value="Range" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#2D7600;strokeWidth=1;fillColor=#60a917;fontFamily=Comic Sans MS;fontSize=18;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=0;sketch=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="966" y="384" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1778" value="String &quot; &quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=18;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=0;sketch=1;fillStyle=hachure;gradientColor=none;glass=0;" parent="1" vertex="1">
