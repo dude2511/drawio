@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T14:54:27.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.83" etag="ufKxWO77KEkgju8weSjR" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T14:55:50.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.83" etag="gwCSVaWmv8IPy1cQsRiZ" version="20.2.3" type="github">
   <diagram id="bkeCw8k-gttlSstKwu0c" name="Page-1">
     <mxGraphModel dx="1320" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="R6XTG78PX4AQXP1k42IL-9" value="Compiler" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=Comic Sans MS;" parent="1" source="R6XTG78PX4AQXP1k42IL-4" target="R6XTG78PX4AQXP1k42IL-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6XTG78PX4AQXP1k42IL-4" value="C Quellcode" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="R6XTG78PX4AQXP1k42IL-4" value="z. B.&lt;br&gt;C" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="292" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R6XTG78PX4AQXP1k42IL-7" value="CPU" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="R6XTG78PX4AQXP1k42IL-13" value="javac Compiler" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontFamily=Comic Sans MS;" parent="1" source="R6XTG78PX4AQXP1k42IL-12" target="R6XTG78PX4AQXP1k42IL-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6XTG78PX4AQXP1k42IL-12" value="Java Sourcecode" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="R6XTG78PX4AQXP1k42IL-12" value="z. B.&lt;br&gt;Java" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="542" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R6XTG78PX4AQXP1k42IL-14" value="CPU" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
@@ -58,7 +58,7 @@
         <mxCell id="R6XTG78PX4AQXP1k42IL-22" value="Interpreter" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontFamily=Comic Sans MS;" parent="1" source="R6XTG78PX4AQXP1k42IL-20" target="R6XTG78PX4AQXP1k42IL-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6XTG78PX4AQXP1k42IL-20" value="z.B. &lt;br&gt;PHP (&amp;lt;= v7)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="R6XTG78PX4AQXP1k42IL-20" value="z. B. &lt;br&gt;PHP (&amp;lt;= v7)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="42" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R6XTG78PX4AQXP1k42IL-21" value="CPU" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
