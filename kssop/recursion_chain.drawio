@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T11:19:10.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.84" version="20.3.3" etag="o6TznV5k5PT5h9AJYgdF" type="github"><diagram id="fJJS8m-lHhmCYcuf7hih">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-11T11:33:21.058Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.84" etag="8m7xjhF19dbFrmozuGOM" version="20.3.3" type="github">
+  <diagram id="fJJS8m-lHhmCYcuf7hih" name="Page-1">
+    <mxGraphModel dx="793" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i90BJPdS2WtMeatQokGR-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="120" width="365" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-16" value="main()&lt;br&gt;&amp;nbsp; factorial(&lt;font color=&quot;#ff6666&quot;&gt;5&lt;/font&gt;)&lt;br&gt;&amp;nbsp; &amp;nbsp; factorial(&lt;font color=&quot;#ff6666&quot;&gt;4&lt;/font&gt;)*5&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; factorial(&lt;font color=&quot;#ff6666&quot;&gt;3&lt;/font&gt;)*4*5&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; factorial(&lt;font color=&quot;#ff6666&quot;&gt;2&lt;/font&gt;)*3*4*5&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; factorial(&lt;font color=&quot;#ff6666&quot;&gt;1&lt;/font&gt;)*2*3*4*5&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; factorial(&lt;font color=&quot;#ff6666&quot;&gt;0&lt;/font&gt;)*1*2*3*4*5&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1*1*2*3*4*5&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1*2*3*4*5&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2*3*4*5&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 6*4*5&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 24*5&lt;br&gt;&amp;nbsp; &amp;nbsp; 120&lt;br&gt;&amp;nbsp; zurück zu main" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontColor=#000000;fontSize=14;fontStyle=1" vertex="1" parent="i90BJPdS2WtMeatQokGR-23">
+          <mxGeometry x="21" y="-24" width="350" height="262" as="geometry" />
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-17" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=14;fontColor=#FF6666;fillColor=none;strokeColor=#FF6666;sketch=1;" vertex="1" parent="i90BJPdS2WtMeatQokGR-23">
+          <mxGeometry x="116" y="119" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-18" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=14;fontColor=#FF6666;fillColor=none;strokeColor=#FF6666;sketch=1;" vertex="1" parent="i90BJPdS2WtMeatQokGR-23">
+          <mxGeometry x="102" y="137" width="38" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-19" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=14;fontColor=#FF6666;fillColor=none;strokeColor=#FF6666;sketch=1;" vertex="1" parent="i90BJPdS2WtMeatQokGR-23">
+          <mxGeometry x="86" y="154" width="34" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-20" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=14;fontColor=#FF6666;fillColor=none;strokeColor=#FF6666;sketch=1;" vertex="1" parent="i90BJPdS2WtMeatQokGR-23">
+          <mxGeometry x="70" y="171" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-21" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=14;fontColor=#FF6666;fillColor=none;strokeColor=#FF6666;sketch=1;" vertex="1" parent="i90BJPdS2WtMeatQokGR-23">
+          <mxGeometry x="48" y="187" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="90" width="210" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-1" value="" style="endArrow=none;html=1;rounded=0;sketch=1;" edge="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="270" as="sourcePoint" />
+            <mxPoint x="210" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-2" value="" style="endArrow=none;html=1;rounded=0;sketch=1;" edge="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" as="sourcePoint" />
+            <mxPoint x="210" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-3" value="" style="endArrow=none;html=1;rounded=0;sketch=1;" edge="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-4" value="" style="endArrow=none;html=1;rounded=0;sketch=1;dashed=1;strokeColor=#6666FF;" edge="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="230" as="sourcePoint" />
+            <mxPoint x="210" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-5" value="return-Adresse in main&lt;br&gt;lokale Variablen von main" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontColor=#6666FF;" vertex="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry x="6" y="234" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-6" value="&lt;font color=&quot;#3333ff&quot;&gt;return-Adresse in factorial&lt;br&gt;n = 5&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontColor=#0066CC;" vertex="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry x="6" y="193" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-7" value="" style="endArrow=none;html=1;rounded=0;sketch=1;dashed=1;strokeColor=#3333FF;" edge="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="190" as="sourcePoint" />
+            <mxPoint x="210" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-8" value="&lt;font&gt;return-Adresse in factorial&lt;br&gt;n = 4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontColor=#0000FF;" vertex="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry x="6" y="153" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-9" value="" style="endArrow=none;html=1;rounded=0;sketch=1;dashed=1;strokeColor=#0000FF;" edge="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="150" as="sourcePoint" />
+            <mxPoint x="210" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-10" value="&lt;font&gt;return-Adresse in factorial&lt;br&gt;n = 3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontColor=#0000CC;" vertex="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry x="6" y="113" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-11" value="" style="endArrow=none;html=1;rounded=0;sketch=1;dashed=1;strokeColor=#0000CC;" edge="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="110" as="sourcePoint" />
+            <mxPoint x="210" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-12" value="&lt;font&gt;return-Adresse in factorial&lt;br&gt;n = 2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontColor=#000099;" vertex="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry x="6" y="73" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-13" value="" style="endArrow=none;html=1;rounded=0;sketch=1;dashed=1;strokeColor=#000099;" edge="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="70" as="sourcePoint" />
+            <mxPoint x="210" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-14" value="&lt;font&gt;return-Adresse in factorial&lt;br&gt;n = 1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontColor=#000066;" vertex="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry x="6" y="33" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i90BJPdS2WtMeatQokGR-15" value="" style="endArrow=none;html=1;rounded=0;sketch=1;dashed=1;strokeColor=#000066;" edge="1" parent="i90BJPdS2WtMeatQokGR-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="30" as="sourcePoint" />
+            <mxPoint x="210" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
